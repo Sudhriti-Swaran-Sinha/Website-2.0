@@ -1,0 +1,422 @@
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #e4f9f5;
+  text-align: center;
+}
+
+/* MY-JOURNEY */
+
+#iam {
+  display: inline-block;
+  position: absolute;
+  top: 746px;
+  left: 600px;
+  font-size: 2rem;
+  font-style: italic;
+  color: #256d85;
+}
+#nilambar {
+  display: inline-block;
+  position: absolute;
+  top: 780px;
+  left: 593px;
+  font-weight: 500;
+  font-size: 6rem;
+  color: white;
+}
+.point {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 93px;
+}
+
+#break1 {
+  width: 128px;
+  position: relative;
+  top: -41px;
+  right: 170px;
+}
+#break2 {
+  width: 128px;
+  position: relative;
+  top: -53px;
+  left: 170px;
+}
+#us-based{
+    
+    width: 800px;
+    height: 47px;
+    position: relative;
+    left: 528px;
+    font-size: 1.2rem;
+}
+.img1{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 363px ;
+    top: 58px;
+}
+.img2{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 308px ;
+    bottom: 232px;
+    right: 308px;
+}
+.writer {
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    /* border: 2px solid green; */
+    
+    margin-top: 5px;.
+    
+}
+#writer1{
+    display: inline-block;
+    position: relative;
+    right: 330px;
+    bottom: 40px;
+
+}
+#writer2{
+    /* border: 2px solid red; */
+    display: flex;
+    position: relative;
+    width: 600px;
+    bottom: 66px;
+    right: 124px;
+    text-align: left;
+    font-size: 1.2rem;
+    font-style: italic;
+
+}
+#photo1{
+    display: inline-block;
+    position: relative;
+    right: 270px;
+    bottom: 323px;
+}
+#photo2{
+    display: flex;
+    position: relative;
+    width: 600px;
+    bottom: 340px;
+    left: 630px;
+    text-align: left;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+.my-journey{
+    /* border: 2px solid red; */
+    height: 543px;
+}
+/* My interview series */
+#break3{
+    width: 128px;
+    position: relative;
+    top: -55px;
+    right: 237px;
+  }
+
+
+#break4{
+    width: 128px;
+  position: relative;
+  top: -63px;
+  left: 232px;
+
+}
+
+/* MY-INTERVIEW */
+.my-interview{
+    background-color: #256d85;
+    height: 500px;
+    margin-top: 70px;
+}
+#writer3{
+font-size: 1.2rem;
+width: 800px;
+height: 47px;
+position: relative;
+left: 528px;
+font-size: 1.2rem;
+text-align: center;
+}
+#writer4{
+    margin-top: 10px;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 98px;
+    display: inline-block;
+}
+#writer5{
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 98px;
+    display: inline-block;
+}
+
+
+#yt{
+     display: inline-block;
+    width: 230px;
+    height: 40px;
+    /* background-color: aquamarine; */
+position: relative;
+top: 120px;
+font-weight: bold; 
+color: #937DC2;
+
+}
+#yt:hover{
+  color: #e4f9f5;
+}
+/* My comunities */
+#break5{
+  width: 128px;
+    position: relative;
+    top: -55px;
+    right: 216px;
+
+}
+#break6{
+  width: 128px;
+  position: relative;
+  top: -63px;
+  left: 213px;
+}
+#a1{
+  width: 300px;
+  height: 200px;
+  background-color: #937DC2;
+  position: relative;
+  left: 430px;
+
+}
+#a1:hover{
+  background-color: #F4BFBF;
+  cursor: pointer;
+}
+#a2{
+  width: 300px;
+  height: 200px;
+  background-color: #C689C6;
+  position: relative;
+  top: 45px;
+  left: 776px;
+
+}
+#a2:hover{
+  background-color: #F4BFBF;
+  cursor: pointer;
+}
+#a3{
+  width: 300px;
+  height: 200px;
+  background-color: #ADDDD0;
+  position: relative;
+  bottom: 400px;
+  left: 1120px
+
+}
+#a3:hover{background-color: #F4BFBF;
+  cursor: pointer;
+
+}
+#a4{
+  width: 300px;
+  height: 200px;
+  background-color: #B7C4CF;
+  position: relative;
+  bottom: 600px;
+  left: 775px;
+
+}
+#a4:hover{
+  background-color: #F4BFBF;
+  cursor: pointer;
+}
+#a5{
+  width: 300px;
+  height: 200px;
+  background-color: #FFF6BF;
+  position: relative;
+bottom: 553px;
+left: 430px;
+}
+#a5:hover{
+  background-color: #F4BFBF;
+  cursor: pointer;
+}
+#a6{
+  width: 300px;
+  height: 200px;
+  background-color: #B7C4CF;
+  position: relative;
+  bottom: 755px;
+  left: 1120px;
+
+}
+#a6:hover{
+  background-color: #F4BFBF;
+  cursor: pointer;
+}
+
+/* MY-COMMUNITES */
+
+
+
+
+
+
+.my-communities{
+  display: inline-block;
+  width: 100%;
+  height: 800px;
+}
+#writer6{
+  font-size: 1.2rem;
+width: 800px;
+height: 47px;
+position: relative;
+left: 528px;
+font-size: 1.2rem;
+text-align: center;
+}
+ .com{
+  margin: 0 ;
+  font-size: 2.2rem;
+  display: inline-block;
+  position: relative;
+  top: 40px;
+  
+ }
+ .pom{
+font-size: 1.2rem;
+display: inline-block;
+position: relative;
+top: 40px;
+text-align: center;
+ }
+ /* My system */
+
+
+
+
+
+.my-system{
+  /* border: 2px solid red; */
+  height: 450px;
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  bottom: 590px;
+  background-color: #F5EDDC;
+}
+
+#break7{
+  width: 128px;
+    position: relative;
+    top: -55px;
+    right: 170px;
+
+}
+#break8{
+  width: 128px;
+  position: relative;
+  top: -63px;
+  left: 170px;
+}
+#writer7{
+  font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 38px;
+    display: inline-block;
+}
+.system-item{
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: #D07000;
+}
+a:hover{
+  color: #256d85;
+}
+
+
+
+/* FOOTER */
+
+
+
+
+.footer{
+  width: 100%;
+  height: 390px;
+  /* border: 2px solid red; */
+  display: inline-block;
+  position: relative;
+  bottom: 450px;
+}
+.writer8{
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+border: 0;
+font-family: inherit;
+ 
+ 
+}
+.writer9{
+  font-size: 1.2rem;
+
+}
+#logo3{
+  height: 100px;
+  width: 100px;
+  margin-right: 30px;
+ 
+  
+
+}
+#logo3:hover{
+ transition:  all .5s cubic-bezier(.7,0,.3,1);
+ transform: scale(1.18);
+ cursor: pointer;
+ 
+  
+  
+}
+#logo4{
+  height: 100px;
+  width: 100px;
+  margin-right: 30px;
+}
+#logo4:hover{
+  transition:  all .5s cubic-bezier(.7,0,.3,1);
+ transform: scale(1.18);
+ cursor: pointer;
+
+}
+#logo5{
+  height: 100px;
+  width: 100px;
+
+}
+#logo5:hover{
+  transition:  all .5s cubic-bezier(.7,0,.3,1);
+ transform: scale(1.18);
+ cursor: pointer;
+
+
+}
